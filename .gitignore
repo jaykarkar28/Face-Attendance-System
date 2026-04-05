@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+*.pkl
+Attendance/*.csv
+!Attendance/.gitkeep
+!data/.gitkeep
